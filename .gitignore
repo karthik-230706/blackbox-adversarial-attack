@@ -1,0 +1,6 @@
+# organiser-provided files (do not re-upload)
+model.pt
+clean_images/
+*.zip
+.ipynb_checkpoints/
+__pycache__/
